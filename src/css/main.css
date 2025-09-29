@@ -31,10 +31,7 @@ header {
   justify-content: space-between;
   align-items: center;
 }
-.burger-menu {
-  width: 30px;
-  height: 34.286px;
-}
+
 
 .main-nav {
 border-radius: 32px;
