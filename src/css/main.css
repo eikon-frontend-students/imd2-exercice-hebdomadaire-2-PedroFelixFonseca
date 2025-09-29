@@ -32,7 +32,6 @@ header {
   align-items: center;
 }
 
-
 .main-nav {
 border-radius: 32px;
 background: #FFF;
@@ -44,6 +43,7 @@ gap: 20px;
 .tools {
   display: flex;
 }
+
 .language{
   display: flex;
   justify-content: center;
@@ -51,8 +51,8 @@ gap: 20px;
   border-radius: 32px;
   background: #FFF;
   padding: 20px;
-  
 }
+
 .contact{
   display: flex;
   justify-content: center;
